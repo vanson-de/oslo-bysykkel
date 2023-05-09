@@ -9,14 +9,14 @@ Displaying usefull station information, as well as the possibility to look up th
 the rental process through an app.
 
 ### `How to start`
-1. Clone repo
+1. Clone repo <br>
 git clone https://github.com/vanson-de/oslo-bysykkel.git oslo-bysykkel.git
 
-2. Run project
+2. Run project <br>
 npm start
 
 ### `Apis consumed`
-https://gbfs.urbansharing.com/oslobysykkel.no/station_information.json \n\r
+https://gbfs.urbansharing.com/oslobysykkel.no/station_information.json <br>
 https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json  
 
 
