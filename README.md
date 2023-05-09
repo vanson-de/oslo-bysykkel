@@ -16,7 +16,7 @@ git clone https://github.com/vanson-de/oslo-bysykkel.git oslo-bysykkel.git
 cd oslo-bysykkel.git
 
 3. Install dependencies <br>
-npm start
+npm install
 
 4. Run project <br>
 npm start
