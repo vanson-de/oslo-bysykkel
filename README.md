@@ -12,7 +12,13 @@ the rental process through an app.
 1. Clone repo <br>
 git clone https://github.com/vanson-de/oslo-bysykkel.git oslo-bysykkel.git
 
-2. Run project <br>
+2. Change directory <br>
+cd oslo-bysykkel.git
+
+3. Install dependencies <br>
+npm start
+
+4. Run project <br>
 npm start
 
 ### `Apis consumed`
