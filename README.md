@@ -8,8 +8,15 @@ showing top 5 nearest stations with free bikes or free docks, as per use case.
 Displaying usefull station information, as well as the possibility to look up the bike station on maps or start
 the rental process through an app.
 
+### `How to start`
+1. Clone repo
+git clone https://github.com/vanson-de/oslo-bysykkel.git oslo-bysykkel.git
+
+2. Run project
+npm start
+
 ### `Apis consumed`
-https://gbfs.urbansharing.com/oslobysykkel.no/station_information.json
+https://gbfs.urbansharing.com/oslobysykkel.no/station_information.json \n\r
 https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json  
 
 
