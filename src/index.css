@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.float_r {
+	float: right;
+}
+
+.txt_center {
+	text-align: center;
+}
+
+.column_wrapper {
+	border: 1px solid #b6d4fe;
+	border-radius: 4px;
+	padding: 80px;
+	margin-top: 10px;
+	
+}
+
+.column_wrapper:hover {
+	background: #cfe2ff;
+}
+
+.column_txt {
+	font-size: 22px;
+}
+
+.tim_container {
+	
+}
+
+.icon_container {
+	text-align:center;
+}
+
+.icon {
+	width: 3.5em;
+    height: 3.5em;
+	color: #000;
+}
+
+.icon_list {
+	width: 1.5em;
+	height: 1.5em;
+}
+
+.icon_sm {
+	width: 1.5em;
+	height: 1.5em;
+}
+
+.spacer_100 {
+	height: 100px;
+}
+
+.margin_l_5 {
+	margin-left: 5px;
+}
+
+.margin_t_10 {
+	margin-top: 10px;
+}
+
+.margin_t_20 {
+	margin-top: 20px;
+}
+
+.margin_b_10 {
+	margin-bottom: 10px;
+}
+
+.margin_b_20 {
+	margin-bottom: 20px;
+}
+
+.margin_r_10 {
+	margin-right: 10px;
+}
+
+.p_20 {
+	padding: 40px 80px;
+}
+
+.actionbar_title {
+	display: inline;
+}
+
+.actionbar_btn {
+	
+}
+
+.nav_logo {
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+
+.station_info_item {
+	display: inline;
+}
+
+.station_list_item {
+	cursor: pointer;
+}
+
+.station_list_item_name {
+	font-size: 1.5em;
+	display:inline;
+}
+
+.station_list_item_badge { 
+	display: inline;
+}
+
+.list_group {
+	padding: 0;
+}
+
+.list_disabled {
+	background-color: #afafaf;
+}
+
+.list_disabled:hover {
+	background-color: #afafaf;
+}
+
+.list_disabled_green {
+	background-color: #bdfb96;
+}
