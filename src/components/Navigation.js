@@ -42,12 +42,10 @@ const Navigation = (props) => {
 								<hr></hr>
 							</NavItem>
 							
-
 							<NavItem>
-								<NavLink href="https://www.christofwendt.de/">christofwendt.de</NavLink>
+								<NavLink href="https://www.christofwendt.de/" target="_blank">christofwendt.de</NavLink>
 							</NavItem>
 
-					
 						</>
 					
 				</Nav>

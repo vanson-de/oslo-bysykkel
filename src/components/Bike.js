@@ -17,7 +17,6 @@ const Bike = () => {
 	const [searchParams] = useSearchParams();
 	
 	//some statics
-	const your_address = "Slotsplassen 1, 0010 Oslo";
 	const your_lat = 59.916590;
 	const your_lon = 10.729329;
 	
@@ -29,11 +28,9 @@ const Bike = () => {
 	const [displayData, setDisplayData] = useState([]);
 
 	useEffect(() => {	
-		console.log("use effect");
 		setMode(searchParams.get("q"));
 		
 		if (!updated) {
-			console.log("updated: " + updated);
 			showNotification("Notification", "Loading bike stations for you", true, [{caption: "Okay", onClick: hideNotification}]);
 			
 			const fetchStations = async () => {

@@ -62,8 +62,6 @@ export default class BikeList extends React.Component {
 						<GeoAltFill className="icon_list"/> {p.distance}km 
 					</div>
 					
-					
-
 				</ListGroupItem>
 				
 			);
